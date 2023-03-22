@@ -100,7 +100,7 @@
       }
   },
   "buildpacks": [{
-      "url": "heroku/python-3.10.4"
+      "url": "heroku/python"
     }],
   "formation": {
       "web": {
